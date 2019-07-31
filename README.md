@@ -1,2 +1,9 @@
 # py-pixiv
-try python
+
+> python case 
+
+run project
+
+```shell
+python3 index.py
+```
